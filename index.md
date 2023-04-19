@@ -24,14 +24,21 @@ Quality Assurance Engineer
   * Jira, Azure, Redmine, TestRail TestNG, Confluence
   * Jenkins, Git, AWS, Django, Datadog
   * Zeplin, Figma, Miro and others
+  
+  
 * **Testing Tools**
   * Postman, Swagger, JMeter, Xenu, Burp Suite, Selenium IDE
+  
+  
 * **Databases and managemeng systems**
   * MySQL(2018-2021)
   * MsSQL(2021-2022)
   * PostgreSQL(2018-2023+)
   * Redshift(2022-2023+)
+  
+  
 * **DMS:** PGAdmin, MSSMS, DBeaver 
+
 
 ## Relevant Work Experience:
 
@@ -49,8 +56,10 @@ Quality Assurance Engineer
   * Identifies and communicates project issues and risks proactively.
   * Work in a big international team with different time zones;
   
+  
 * **Trainer of course "QA Manual"** (Sep 2021 - Aug 2022)
   * Giving online lectures and practical classes.
+  
   
 * **Artweb.ua**
   * Worked on many eCommerce web projects with their own core; 
@@ -60,12 +69,15 @@ Quality Assurance Engineer
   * REST API Testing;
   * QA activities Improvement;
 
+
 ## A bit more about myself:
+
 
 * **Education:**
   * QA Light - ISTQB course (march 2023)
   * PROG.KIEV.UA - Certification QA
   * Borys Hrynchenko Kyiv University - Philosophy
+
 
 * **Other:**
   * English - Intermediate
