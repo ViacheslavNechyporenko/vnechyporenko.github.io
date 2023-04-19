@@ -23,7 +23,7 @@ Quality Assurance Engineer
 * **Management Tools:**
   * Jira, Azure, Redmine, TestRail TestNG, Confluence
   * Jenkins, Git, AWS, Django, Datadog
-  * Zeplin, Figma, Miro and others
+  * Zeplin, Figma, Miro and others  
 <br>
 * **Testing Tools**
   * Postman, Swagger, JMeter, Xenu, Burp Suite, Selenium IDE  
