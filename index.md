@@ -25,6 +25,7 @@ Quality Assurance Engineer
   * Jenkins, Git, AWS, Django, Datadog
   * Zeplin, Figma, Miro and others
 
+
 * **Testing Tools**
   * Postman, Swagger, JMeter, Xenu, Burp Suite, Selenium IDE  
 
