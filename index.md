@@ -1,4 +1,4 @@
-Welcome! This page is my CV for HR specialists
+Welcome! This page created for HR specialists
 
 ## Position
 Quality Assurance Engineer
