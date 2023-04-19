@@ -64,7 +64,7 @@ Quality Assurance Engineer
   * QA activities Improvement;  
 
 
-## A bit more about myself:
+## A bit more about me:
 
 
 * **Education:**
