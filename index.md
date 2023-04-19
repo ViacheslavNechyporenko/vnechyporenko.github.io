@@ -55,7 +55,7 @@ Quality Assurance Engineer
 * **Trainer of course "QA Manual"** (Sep 2021 - Aug 2022)
   * Giving online lectures and practical classes.  
 <br>
-* **Artweb.ua**
+* **Artweb.ua** (Nov 2018 - Apr 2021)
   * Worked on many eCommerce web projects with their own core; 
   * Creating and maintaining test artifacts;
   * Creating and demonstrating Demos;
